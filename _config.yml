@@ -1,0 +1,17 @@
+title: ゲーム攻略ノート
+description: VALORANTとエターナルリターンの攻略・デバイス・最新アップデート情報を、プレイヤー目線でまとめるブログ
+theme: minima
+lang: ja
+baseurl: "/game"
+url: "https://lucky7ky.github.io"
+permalink: /:categories/:title/
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+header_pages:
+  - valorant.md
+  - eternal-return.md
+  - about.md
+
+show_excerpts: true
