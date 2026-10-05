@@ -31,6 +31,12 @@ VALORANTでは、相手が角から飛び出してきた一瞬を見逃さない
 
 <a href="https://rpx.a8.net/svt/ejp?a8mat=4BC9F3+D44S9M+2HOM+6F1WJ&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0ea62065.34400275.0ea62066.204f04c0%2Fa26091257248_4BC9F3_D44S9M_2HOM_6F1WJ%3Fpc%3Dhttps%253A%252F%252Fsearch.rakuten.co.jp%252Fsearch%252Fmall%252F%2525E3%252582%2525B2%2525E3%252583%2525BC%2525E3%252583%25259F%2525E3%252583%2525B3%2525E3%252582%2525B0%2525E3%252583%2525A2%2525E3%252583%25258B%2525E3%252582%2525BF%2525E3%252583%2525BC%252520240Hz%252F%26m%3Dhttps%253A%252F%252Fsearch.rakuten.co.jp%252Fsearch%252Fmall%252F%2525E3%252582%2525B2%2525E3%252583%2525BC%2525E3%252583%25259F%2525E3%252583%2525B3%2525E3%252582%2525B0%2525E3%252583%2525A2%2525E3%252583%25258B%2525E3%252582%2525BF%2525E3%252583%2525BC%252520240Hz%252F" rel="nofollow sponsored">楽天市場で「ゲーミングモニター 240Hz」を探す</a>
 
+### メーカー公式ストアで選ぶなら：Pixio
+
+**Pixio**は、手ごろな価格のゲーミングモニターで人気のメーカーです。カラフルなデザインのモデルが多いので、性能だけでなく見た目にもこだわりたい人に向いています。リフレッシュレートや画面サイズは、上の選び方を参考に公式ストアで確認してください。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4BCMO2+2WSB8Y+XTI+15ORS2" rel="nofollow sponsored">Pixioのゲーミングモニターを公式ストアで見る</a><img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4BCMO2+2WSB8Y+XTI+15ORS2" alt="">
+
 ## 画面サイズは24インチ前後が定番
 
 FPSでは、画面全体を目を動かさずに見渡せる**24インチ前後**が定番です。大きすぎると、画面の端のミニマップや敵の動きを見落としやすくなります。

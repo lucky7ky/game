@@ -34,6 +34,20 @@ VALORANTは、グラフィックボードだけでなく**CPUの性能**もフ�
 
 <a href="https://rpx.a8.net/svt/ejp?a8mat=4BC9F3+D44S9M+2HOM+6F1WJ&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0ea62065.34400275.0ea62066.204f04c0%2Fa26091257248_4BC9F3_D44S9M_2HOM_6F1WJ%3Fpc%3Dhttps%253A%252F%252Fsearch.rakuten.co.jp%252Fsearch%252Fmall%252F%2525E3%252582%2525B2%2525E3%252583%2525BC%2525E3%252583%25259F%2525E3%252583%2525B3%2525E3%252582%2525B0PC%252F%26m%3Dhttps%253A%252F%252Fsearch.rakuten.co.jp%252Fsearch%252Fmall%252F%2525E3%252582%2525B2%2525E3%252583%2525BC%2525E3%252583%25259F%2525E3%252583%2525B3%2525E3%252582%2525B0PC%252F" rel="nofollow sponsored">楽天市場で「ゲーミングPC」を探す</a>
 
+### BTOメーカーの公式サイトで選ぶなら
+
+BTOなら、メーカーの公式サイトで「VALORANTが快適に動く構成」を予算に合わせて選べます。目標のフレームレートと、上で説明したCPU・グラフィックボード・メモリのバランスを見ながら比べてみてください。
+
+- **OZ GAMING**：コスパとデザインの良さで人気のBTOゲーミングPC
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4BCMO2+23M2LU+5U1O+5YRHE" rel="nofollow sponsored">OZ GAMINGの公式サイトを見る</a><img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4BCMO2+23M2LU+5U1O+5YRHE" alt="">
+
+- **MDL**：SNSで話題のBTOゲーミングPC。構成を選んで注文できる
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4BCMO2+35PTBM+5HXK+5YJRM" rel="nofollow sponsored">MDLの公式サイトを見る</a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BCMO2+35PTBM+5HXK+5YJRM" alt="">
+
+価格や構成はセールなどで変わるので、買う前に公式サイトで最新の情報を確認してください。
+
 ## 周辺機器もあわせて
 
 PCを用意したら、マウス・ヘッドセット・キーボードも見直すと、プレイの快適さがさらに上がります。
